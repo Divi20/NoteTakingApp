@@ -1,0 +1,41 @@
+*{
+    text-align:center;
+    background-color:#856c8b;
+    color:white;
+    font-family:Comic Sans MS;
+  }
+  textarea{
+    padding:10px;
+    border:5px solid black;
+    border-radius: 10px;
+    background:white;
+    color:black;
+    text-align:left;
+    width: 500px;
+    height: 250px;
+    row:10;
+    col:100;
+  }
+  
+  #add{
+    width:500px;
+    font-size:24px;
+    border:2px solid white;
+    border-radius:10px;
+    
+  }
+  
+  #add:hover{
+      background-color:red;
+    }
+  hr{
+    background-color:yellow;
+    margin:50px;
+  }
+  li{
+    text-align:left;
+  }
+  
+  
+  
+
