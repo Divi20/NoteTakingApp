@@ -2,4 +2,4 @@
 
 <p>The basic web page using HTML,CSS and Javascript to add , edit and delete notes.
 
-<img src="NoteApp.png">
+<img src="NoteApp.jpg">
