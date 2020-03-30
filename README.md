@@ -2,4 +2,4 @@
 
 <p>Web page designed to add , edit and delete note using html, css and javascript</p>
 
-<img src="NoteTakinApp.jpg">
+<img src="NoteApp.jpg">
